@@ -44,13 +44,13 @@ public class Week1_exercise {
 		/*
 		 * Get the first user variable.
 		 */
-		System.out.print( "Please enter a number: " );
+		System.out.print( "Please enter the first number: " );
 		userVar1 = input.nextInt();
 
 		/*
 		 * Get the second user variable.
 		 */
-		System.out.print( "Please enter another number: " );
+		System.out.print( "Please enter the second number: " );
 		userVar2 = input.nextInt();
 
 		/*
