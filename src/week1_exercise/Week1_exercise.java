@@ -28,6 +28,7 @@ public class Week1_exercise {
 		int userVar2;
 		int sum;
 		int difference;
+		int product;
 		int quotient;
 		int remainder;
 
@@ -57,7 +58,8 @@ public class Week1_exercise {
 		 * Do the math
 		 */
 		sum        = userVar1 + userVar2;
-		difference = userVar1 - userVar2;
+		difference = Math.abs( userVar1 - userVar2 );
+		product    = userVar1 * userVar2;
 		quotient   = userVar1 / userVar2;
 		remainder  = userVar1 % userVar2;
 
@@ -67,6 +69,7 @@ public class Week1_exercise {
 		System.out.println( "Your numbers calculate to the following:" );
 		System.out.println( "Sum: " + sum );
 		System.out.println( "Difference: " + difference );
+		System.out.println( "Product: " + product );
 		System.out.println( "Quotient: " + quotient );
 		System.out.println( "Remainder: " + remainder );
 	}
