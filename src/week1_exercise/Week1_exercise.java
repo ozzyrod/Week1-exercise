@@ -2,7 +2,7 @@
  *
  * Project: Week1 Exercise
  * Author:  Osbardo Rodriguez
- * Date:    2/13/18
+ * Date:    2/6/18
  */
 package week1_exercise;
 
