@@ -17,7 +17,6 @@ import java.util.Scanner;
 public class Week1_exercise {
 
 	/**
-	 *
 	 * @param args command line arguments
 	 */
 	public static void main( String[] args ) {
@@ -29,7 +28,6 @@ public class Week1_exercise {
 		int userVar2;
 		int sum;
 		int difference;
-		int absDifference;
 		int quotient;
 		int remainder;
 
@@ -58,10 +56,10 @@ public class Week1_exercise {
 		/*
 		 * Do the math
 		 */
-		sum           = userVar1 + userVar2;
-		difference    = userVar1 - userVar2;
-		quotient      = userVar1 / userVar2;
-		remainder     = userVar1 % userVar2;
+		sum        = userVar1 + userVar2;
+		difference = userVar1 - userVar2;
+		quotient   = userVar1 / userVar2;
+		remainder  = userVar1 % userVar2;
 
 		/*
 		 * Give the user the answers.
