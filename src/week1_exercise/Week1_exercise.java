@@ -40,7 +40,7 @@ public class Week1_exercise {
 		/*
 		 * Let the user know what we'll be doing with their inputs.
 		 */
-		System.out.println( "Please enter two numbers to get the sum, difference, quotient, and remainder." );
+		System.out.println( "Please enter two numbers to get the sum, difference, products, quotient, and remainder." );
 
 		/*
 		 * Get the first user variable.
