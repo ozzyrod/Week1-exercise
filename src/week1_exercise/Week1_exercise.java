@@ -33,7 +33,7 @@ public class Week1_exercise {
 		int remainder;
 
 		/*
-		 * Instantiate the Scanner
+		 * Instantiate the Scanner.
 		 */
 		Scanner input = new Scanner( System.in );
 
@@ -55,7 +55,7 @@ public class Week1_exercise {
 		userVar2 = input.nextInt();
 
 		/*
-		 * Do the math
+		 * Do the math.
 		 */
 		sum        = userVar1 + userVar2;
 		difference = Math.abs( userVar1 - userVar2 );
