@@ -7,12 +7,12 @@
 package week1_exercise;
 
 /*
- * Import the Scanner java package
+ * Import the Scanner java package.
  */
 import java.util.Scanner;
 
 /**
- * Define class Week1_exercise
+ * Define class Week1_exercise.
  */
 public class Week1_exercise {
 
